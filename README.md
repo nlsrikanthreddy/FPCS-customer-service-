@@ -7,3 +7,4 @@ for( let x of cars){
 }
 let a = fucntion(b){
     return (b);
+c also added herein code 
